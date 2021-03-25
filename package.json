@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "express": "^4.8.5",
-    "ejs": "~0.8.4",
-    "request": "~2.40.0",
+    "ejs": "~3.1.6",
+    "request": "~2.68.0",
     "ssh2": "^0.3.5",
     "compression": "^1.0.11",
     "serve-static": "^1.6.5"
